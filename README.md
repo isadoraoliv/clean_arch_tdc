@@ -1,16 +1,25 @@
-# clean_arch_tdc
 
-A new Flutter project. Created by Slidy
+# Código para o evento TDC CONNECTIONS 2021
+## Palestra: Clean Architecture no Flutter: da Teória a Prática
 
-## Getting Started
+<p align="center">
+  <img src="tdc.png">
+</p>
 
-This project is a starting point for a Flutter application.
+[Informações sobre o evento](https://thedevconf.com)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Sobre o Projeto:
+Projeto visa mostrar os conceitos de Clean Architecture aplicados na prática
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias Utilizadas:
+
+- [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Modular](https://github.com/Flutterando/modular)
+- [MobX](https://pub.dev/packages/mobx)
+
+### Como rodar:
+
+- Versão do Flutter: 1.22.6
+- Channel: stable
+- Versão do dart: 2.10.5
