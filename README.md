@@ -24,4 +24,4 @@ Projeto visa mostrar os conceitos de Clean Architecture aplicados na prática
 - Channel: stable
 - Versão do dart: 2.10.5
 
-Obs.: o slide da apresentação está junto com o código
+##### Obs.: o slide da apresentação está junto ao código
