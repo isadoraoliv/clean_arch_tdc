@@ -23,3 +23,5 @@ Projeto visa mostrar os conceitos de Clean Architecture aplicados na prática
 - Versão do Flutter: 1.22.6
 - Channel: stable
 - Versão do dart: 2.10.5
+
+Obs.: o slide da apresentação está junto com o código
